@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Ana, an <a href="https://linkedin.com/in/ana-williams1">IT Professional</a>☺</h1>
 
-<!--
-**Anaitprofessional/Anaitprofessional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Vm and Remote Desktop Set Up</b>
+  - [Azure: Setting up Virtual Machine](https://github.com/elizabeth-a-h/vm-set-up)
+  - [Microsoft Remote Desktop: Setting up with Azure VM](https://github.com/elizabeth-a-h/remote-desktop)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/elizabeth-a-h/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/elizabeth-a-h/osTicket)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/elizabeth-a-h/active-directory-set-up)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/elizabeth-a-h/azure-nsg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="Elizabeth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Elizabeth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Elizabeth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/Josh
+[instagram]: https://www.instagram.com/Josh
+[linkedin]: https://www.linkedin.com/in/elizabeth-harnisch
